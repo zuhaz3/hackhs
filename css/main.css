@@ -113,9 +113,25 @@
     color: white;
     text-shadow: 1px 1px 0px #2e2e2e;
     filter: dropshadow(color=#2e2e2e,  offx=1,  offy=1);
-    font-size: 24px;
+    font-size: 32px;
     margin: 0px;
     margin-bottom: 5px;
+}
+.subblurb > *{
+    color: #fff;
+    text-decoration: none;
+    font-family: norwester;
+}
+
+.subblurb > a:hover {
+    opacity: 0.9;
+    border-bottom: 1px dashed #fff;
+    color: #fff;
+    text-decoration: none;
+}
+
+#directions {
+    border-bottom: 1px dashed #fff;      
 }
 .register {
     background-color: #fff;
