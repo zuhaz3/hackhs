@@ -170,7 +170,8 @@
 }
 .workshops strong {
     font-family: norwester;
-    color: #eb0808;
+    font-size: 45px;
+    color: white;
     text-shadow: 1px 1px 0px #2e2e2e;
     filter: dropshadow(color=#2e2e2e,  offx=1,  offy=1);
 }
